@@ -2,12 +2,10 @@
 
 NLP Project
 
-**Title**
-
+**Title**  
 Movie Recommendation Engine
 
-**Problem Statement**
-
+**Problem Statement**  
 To build a Content-Based Movie Recommendation Engine with Natural Language Processing for South Indian languages ie Malayalam, Tamil, Telugu and Kannada.
 
 **Description**
