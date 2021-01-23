@@ -1,4 +1,4 @@
-# Project3_Movie_Recommendation_Engine
+# Movie Recommendation Engine
 
 NLP Project in Python
 
