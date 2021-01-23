@@ -1,6 +1,6 @@
 # Project2_Movie_Recommendation_Engine
 
-NLP Project
+NLP Project in Python
 
 **Title**  
 Movie Recommendation Engine
